@@ -1,90 +1,91 @@
-<mxfile host="app.diagrams.net" modified="2021-04-08T10:19:12.804Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36 Edg/89.0.774.68" etag="qSiHWmB_RPrbCoMP_cYV" version="14.5.8" type="github">
+<mxfile host="app.diagrams.net" modified="2021-04-08T10:20:23.551Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36 Edg/89.0.774.68" etag="LNj7iGN3hcbmRhPVyUHg" version="14.5.8" type="github">
   <diagram id="prtHgNgQTEPvFCAcTncT" name="Page-1">
     <mxGraphModel dx="1523" dy="771" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="XEXGEvhh6CeXuhuqBWVr-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="XEXGEvhh6CeXuhuqBWVr-3" target="XEXGEvhh6CeXuhuqBWVr-8">
+        <mxCell id="XEXGEvhh6CeXuhuqBWVr-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="XEXGEvhh6CeXuhuqBWVr-22" target="XEXGEvhh6CeXuhuqBWVr-27">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="XEXGEvhh6CeXuhuqBWVr-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="XEXGEvhh6CeXuhuqBWVr-3" target="XEXGEvhh6CeXuhuqBWVr-4">
+        <mxCell id="XEXGEvhh6CeXuhuqBWVr-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="XEXGEvhh6CeXuhuqBWVr-22" target="XEXGEvhh6CeXuhuqBWVr-23">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <UserObject label="Jörg Treiner&lt;br&gt;&lt;i style=&quot;color: gray&quot;&gt;CTO&lt;/i&gt;&lt;br&gt;&lt;a href=&quot;mailto:me@example.com&quot;&gt;joerg.treiner@syncier.com&lt;/a&gt;" name="Jörg Treiner " position="CTO" location="Munich" email="joerg.treiner@syncier.com" placeholders="1" link="https://www.linkedin.com/in/joergtreiner" id="XEXGEvhh6CeXuhuqBWVr-3">
+        <UserObject label="Jörg Treiner&lt;br&gt;&lt;i style=&quot;color: gray&quot;&gt;CTO&lt;/i&gt;&lt;br&gt;&lt;a href=&quot;mailto:me@example.com&quot;&gt;joerg.treiner@syncier.com&lt;/a&gt;" name="Jörg Treiner " position="CTO" location="Munich" email="joerg.treiner@syncier.com" placeholders="1" link="https://www.linkedin.com/in/joergtreiner" id="XEXGEvhh6CeXuhuqBWVr-22">
           <mxCell style="label;image=https://cdn3.iconfinder.com/data/icons/user-avatars-1/512/users-9-2-128.png;whiteSpace=wrap;html=1;rounded=0;glass=0;treeFolding=1;treeMoving=1;" vertex="1" parent="1">
-            <mxGeometry x="293.41" y="40" width="220" height="80" as="geometry" />
+            <mxGeometry x="304" y="130" width="220" height="80" as="geometry" />
           </mxCell>
         </UserObject>
-        <UserObject label="Günther Repitsch&lt;br&gt;&lt;i style=&quot;color: gray&quot;&gt;Lead&lt;/i&gt;&lt;br&gt;&lt;a href=&quot;mailto:me@example.com&quot;&gt;guenther.repitsch@syncier.com&lt;/a&gt;" name="Günther Repitsch " position="Lead" location="Munich" email="guenther.repitsch@syncier.com" placeholders="1" link="https://www.linkedin.com/in/g%C3%BCnther-repitsch-474876105" id="XEXGEvhh6CeXuhuqBWVr-4">
+        <UserObject label="Günther Repitsch&lt;br&gt;&lt;i style=&quot;color: gray&quot;&gt;Lead&lt;/i&gt;&lt;br&gt;&lt;a href=&quot;mailto:me@example.com&quot;&gt;guenther.repitsch@syncier.com&lt;/a&gt;" name="Günther Repitsch " position="Lead" location="Munich" email="guenther.repitsch@syncier.com" placeholders="1" link="https://www.linkedin.com/in/g%C3%BCnther-repitsch-474876105" id="XEXGEvhh6CeXuhuqBWVr-23">
           <mxCell style="label;image=https://cdn3.iconfinder.com/data/icons/user-avatars-1/512/users-2-128.png;whiteSpace=wrap;html=1;rounded=0;glass=0;" vertex="1" parent="1">
-            <mxGeometry x="129.41" y="170" width="260" height="70" as="geometry" />
+            <mxGeometry x="140" y="260" width="260" height="70" as="geometry" />
           </mxCell>
         </UserObject>
-        <mxCell id="XEXGEvhh6CeXuhuqBWVr-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.126;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitPerimeter=0;" edge="1" parent="1" source="XEXGEvhh6CeXuhuqBWVr-8" target="XEXGEvhh6CeXuhuqBWVr-9">
+        <mxCell id="XEXGEvhh6CeXuhuqBWVr-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.126;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitPerimeter=0;" edge="1" parent="1" source="XEXGEvhh6CeXuhuqBWVr-27" target="XEXGEvhh6CeXuhuqBWVr-28">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="XEXGEvhh6CeXuhuqBWVr-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.126;exitY=1.012;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitPerimeter=0;" edge="1" parent="1" source="XEXGEvhh6CeXuhuqBWVr-8" target="XEXGEvhh6CeXuhuqBWVr-10">
+        <mxCell id="XEXGEvhh6CeXuhuqBWVr-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.126;exitY=1.012;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitPerimeter=0;" edge="1" parent="1" source="XEXGEvhh6CeXuhuqBWVr-27" target="XEXGEvhh6CeXuhuqBWVr-29">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="XEXGEvhh6CeXuhuqBWVr-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.126;exitY=0.976;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitPerimeter=0;" edge="1" parent="1" source="XEXGEvhh6CeXuhuqBWVr-8" target="XEXGEvhh6CeXuhuqBWVr-11">
+        <mxCell id="XEXGEvhh6CeXuhuqBWVr-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.126;exitY=0.976;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitPerimeter=0;" edge="1" parent="1" source="XEXGEvhh6CeXuhuqBWVr-27" target="XEXGEvhh6CeXuhuqBWVr-30">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <UserObject label="Maria Andrei&lt;br&gt;&lt;font color=&quot;#808080&quot;&gt;&lt;i&gt;Customer Success Manager&lt;/i&gt;&lt;/font&gt;&lt;br&gt;&lt;a href=&quot;mailto:me@example.com&quot;&gt;maria.andrei@syncier.com&lt;/a&gt;" name="Maria Andrei" position="Customer Success Manager" location="Munich" email="maria.andrei@syncier.com" placeholders="1" link="https://www.linkedin.com/in/maria-andrei-117a5b34" id="XEXGEvhh6CeXuhuqBWVr-8">
+        <UserObject label="Maria Andrei&lt;br&gt;&lt;font color=&quot;#808080&quot;&gt;&lt;i&gt;Customer Success Manager&lt;/i&gt;&lt;/font&gt;&lt;br&gt;&lt;a href=&quot;mailto:me@example.com&quot;&gt;maria.andrei@syncier.com&lt;/a&gt;" name="Maria Andrei" position="Customer Success Manager" location="Munich" email="maria.andrei@syncier.com" placeholders="1" link="https://www.linkedin.com/in/maria-andrei-117a5b34" id="XEXGEvhh6CeXuhuqBWVr-27">
           <mxCell style="label;image=https://cdn3.iconfinder.com/data/icons/user-avatars-1/512/users-3-128.png;whiteSpace=wrap;html=1;rounded=0;glass=0;treeMoving=1;treeFolding=1;" vertex="1" parent="1">
-            <mxGeometry x="419.41" y="170" width="240" height="70" as="geometry" />
+            <mxGeometry x="430" y="260" width="240" height="70" as="geometry" />
           </mxCell>
         </UserObject>
-        <UserObject label="Torsten Walter&lt;br&gt;&lt;i style=&quot;color: gray&quot;&gt;Venture Architect &amp;amp; Product Owner&lt;/i&gt;&lt;br&gt;&lt;a href=&quot;mailto:me@example.com&quot;&gt;torsten.walter@syncier.com&lt;/a&gt;" name="Torsten Walter" position="Venture Architect &amp; Product Owner" location="Munich" email="torsten.walter@syncier.com" placeholders="1" link="https://www.linkedin.com/in/torsten-walter-4697a777" id="XEXGEvhh6CeXuhuqBWVr-9">
+        <UserObject label="Torsten Walter&lt;br&gt;&lt;i style=&quot;color: gray&quot;&gt;Venture Architect &amp;amp; Product Owner&lt;/i&gt;&lt;br&gt;&lt;a href=&quot;mailto:me@example.com&quot;&gt;torsten.walter@syncier.com&lt;/a&gt;" name="Torsten Walter" position="Venture Architect &amp; Product Owner" location="Munich" email="torsten.walter@syncier.com" placeholders="1" link="https://www.linkedin.com/in/torsten-walter-4697a777" id="XEXGEvhh6CeXuhuqBWVr-28">
           <mxCell style="label;image=https://cdn3.iconfinder.com/data/icons/user-avatars-1/512/users-10-3-128.png;whiteSpace=wrap;html=1;rounded=0;glass=0;treeFolding=1;treeMoving=1;" vertex="1" parent="1">
-            <mxGeometry x="489.41" y="250" width="250" height="80" as="geometry" />
+            <mxGeometry x="500" y="340" width="250" height="80" as="geometry" />
           </mxCell>
         </UserObject>
-        <UserObject label="James Nolan&lt;br&gt;&lt;i style=&quot;color: gray&quot;&gt;Cloud Architect&lt;/i&gt;&lt;br&gt;&lt;a href=&quot;mailto:me@example.com&quot;&gt;james.nolan@syncier.com&lt;/a&gt;" name="James Nolan" position="Cloud Architect" location="Munich" email="James Nolan" placeholders="1" link="https://www.linkedin.com/in/cloudywithachanceofdevops" id="XEXGEvhh6CeXuhuqBWVr-10">
+        <UserObject label="James Nolan&lt;br&gt;&lt;i style=&quot;color: gray&quot;&gt;Cloud Architect&lt;/i&gt;&lt;br&gt;&lt;a href=&quot;mailto:me@example.com&quot;&gt;james.nolan@syncier.com&lt;/a&gt;" name="James Nolan" position="Cloud Architect" location="Munich" email="James Nolan" placeholders="1" link="https://www.linkedin.com/in/cloudywithachanceofdevops" id="XEXGEvhh6CeXuhuqBWVr-29">
           <mxCell style="label;image=https://cdn3.iconfinder.com/data/icons/user-avatars-1/512/users-2-128.png;whiteSpace=wrap;html=1;rounded=0;glass=0;" vertex="1" parent="1">
-            <mxGeometry x="489.41" y="340" width="230" height="80" as="geometry" />
+            <mxGeometry x="500" y="430" width="230" height="80" as="geometry" />
           </mxCell>
         </UserObject>
-        <UserObject label="Stasa Lokmer&amp;nbsp;&lt;br&gt;&lt;font color=&quot;#808080&quot;&gt;&lt;i&gt;DB2 Consultant&lt;br&gt;&lt;/i&gt;&lt;/font&gt;&lt;a href=&quot;mailto:me@example.com&quot;&gt;stasa.lokmer@syncier.com&lt;/a&gt;" name="Stasa Lokmer" position="DB2 Consultant" location="Munich" email="stasa.lokmer@syncier.com" placeholders="1" link="https://www.linkedin.com/in/stasa-lokmer-7bb33548" id="XEXGEvhh6CeXuhuqBWVr-11">
+        <UserObject label="Stasa Lokmer&amp;nbsp;&lt;br&gt;&lt;font color=&quot;#808080&quot;&gt;&lt;i&gt;DB2 Consultant&lt;br&gt;&lt;/i&gt;&lt;/font&gt;&lt;a href=&quot;mailto:me@example.com&quot;&gt;stasa.lokmer@syncier.com&lt;/a&gt;" name="Stasa Lokmer" position="DB2 Consultant" location="Munich" email="stasa.lokmer@syncier.com" placeholders="1" link="https://www.linkedin.com/in/stasa-lokmer-7bb33548" id="XEXGEvhh6CeXuhuqBWVr-30">
           <mxCell style="label;image=https://cdn3.iconfinder.com/data/icons/user-avatars-1/512/users-10-3-128.png;whiteSpace=wrap;html=1;rounded=0;glass=0;treeFolding=1;treeMoving=1;" vertex="1" parent="1">
-            <mxGeometry x="489.41" y="430" width="250" height="80" as="geometry" />
+            <mxGeometry x="500" y="520" width="250" height="80" as="geometry" />
           </mxCell>
         </UserObject>
-        <UserObject label="João Lopes de Almeida&lt;br&gt;&lt;i style=&quot;color: gray&quot;&gt;TPM&lt;/i&gt;&lt;br&gt;&lt;a href=&quot;mailto:me@example.com&quot;&gt;joalmeid@microsoft.com&lt;/a&gt;" name="James Nolan" position="Cloud Architect" location="Munich" email="James Nolan" placeholders="1" link="https://www.linkedin.com/in/cloudywithachanceofdevops" id="XEXGEvhh6CeXuhuqBWVr-12">
+        <UserObject label="João Lopes de Almeida&lt;br&gt;&lt;i style=&quot;color: gray&quot;&gt;TPM&lt;/i&gt;&lt;br&gt;&lt;a href=&quot;mailto:me@example.com&quot;&gt;joalmeid@microsoft.com&lt;/a&gt;" name="James Nolan" position="Cloud Architect" location="Munich" email="James Nolan" placeholders="1" link="https://www.linkedin.com/in/cloudywithachanceofdevops" id="XEXGEvhh6CeXuhuqBWVr-31">
           <mxCell style="label;image=https://cdn3.iconfinder.com/data/icons/user-avatars-1/512/users-2-128.png;whiteSpace=wrap;html=1;rounded=0;glass=0;" vertex="1" parent="1">
-            <mxGeometry x="109.41" y="650" width="230" height="70" as="geometry" />
+            <mxGeometry x="120" y="740" width="230" height="70" as="geometry" />
           </mxCell>
         </UserObject>
-        <UserObject label="Vera Biehl&lt;br&gt;&lt;font color=&quot;#808080&quot;&gt;&lt;i&gt;PM&lt;/i&gt;&lt;/font&gt;&lt;br&gt;&lt;a href=&quot;mailto:me@example.com&quot;&gt;Vera.Biehl@microsoft.com&lt;/a&gt;" name="Maria Andrei" position="Customer Success Manager" location="Munich" email="maria.andrei@syncier.com" placeholders="1" link="https://www.linkedin.com/in/maria-andrei-117a5b34" id="XEXGEvhh6CeXuhuqBWVr-13">
+        <UserObject label="Vera Biehl&lt;br&gt;&lt;font color=&quot;#808080&quot;&gt;&lt;i&gt;PM&lt;/i&gt;&lt;/font&gt;&lt;br&gt;&lt;a href=&quot;mailto:me@example.com&quot;&gt;Vera.Biehl@microsoft.com&lt;/a&gt;" name="Maria Andrei" position="Customer Success Manager" location="Munich" email="maria.andrei@syncier.com" placeholders="1" link="https://www.linkedin.com/in/maria-andrei-117a5b34" id="XEXGEvhh6CeXuhuqBWVr-32">
           <mxCell style="label;image=https://cdn3.iconfinder.com/data/icons/user-avatars-1/512/users-3-128.png;whiteSpace=wrap;html=1;rounded=0;glass=0;treeMoving=1;treeFolding=1;" vertex="1" parent="1">
-            <mxGeometry x="369.41" y="570" width="240" height="70" as="geometry" />
+            <mxGeometry x="380" y="660" width="240" height="70" as="geometry" />
           </mxCell>
         </UserObject>
-        <UserObject label="Kasim Rehman&lt;br&gt;&lt;i style=&quot;color: rgb(128 , 128 , 128)&quot;&gt;CSA&lt;/i&gt;&lt;br&gt;&lt;a href=&quot;mailto:me@example.com&quot;&gt;karehman@microsoft.com&lt;/a&gt;" name="Torsten Walter" position="Venture Architect &amp; Product Owner" location="Munich" email="torsten.walter@syncier.com" placeholders="1" link="https://www.linkedin.com/in/torsten-walter-4697a777" id="XEXGEvhh6CeXuhuqBWVr-14">
+        <UserObject label="Kasim Rehman&lt;br&gt;&lt;i style=&quot;color: rgb(128 , 128 , 128)&quot;&gt;CSA&lt;/i&gt;&lt;br&gt;&lt;a href=&quot;mailto:me@example.com&quot;&gt;karehman@microsoft.com&lt;/a&gt;" name="Torsten Walter" position="Venture Architect &amp; Product Owner" location="Munich" email="torsten.walter@syncier.com" placeholders="1" link="https://www.linkedin.com/in/torsten-walter-4697a777" id="XEXGEvhh6CeXuhuqBWVr-33">
           <mxCell style="label;image=https://cdn3.iconfinder.com/data/icons/user-avatars-1/512/users-10-3-128.png;whiteSpace=wrap;html=1;rounded=0;glass=0;treeFolding=1;treeMoving=1;" vertex="1" parent="1">
-            <mxGeometry x="709.41" y="670" width="280" height="70" as="geometry" />
+            <mxGeometry x="720" y="760" width="280" height="70" as="geometry" />
           </mxCell>
         </UserObject>
-        <mxCell id="XEXGEvhh6CeXuhuqBWVr-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.133;exitY=0.991;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitPerimeter=0;" edge="1" parent="1" target="XEXGEvhh6CeXuhuqBWVr-12">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="80.00000000000003" y="639.3699999999999" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="XEXGEvhh6CeXuhuqBWVr-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.133;exitY=0.946;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitPerimeter=0;" edge="1" parent="1" target="XEXGEvhh6CeXuhuqBWVr-17">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="80.00000000000003" y="636.22" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
-        <UserObject label="Christian Binder&lt;br&gt;&lt;i style=&quot;color: gray&quot;&gt;TPM&lt;/i&gt;&lt;br&gt;&lt;a href=&quot;mailto:me@example.com&quot;&gt;cbinder@microsoft.com&lt;/a&gt;" name="James Nolan" position="Cloud Architect" location="Munich" email="James Nolan" placeholders="1" link="https://www.linkedin.com/in/cloudywithachanceofdevops" id="XEXGEvhh6CeXuhuqBWVr-17">
-          <mxCell style="label;image=https://cdn3.iconfinder.com/data/icons/user-avatars-1/512/users-2-128.png;whiteSpace=wrap;html=1;rounded=0;glass=0;" vertex="1" parent="1">
-            <mxGeometry x="109.41" y="740" width="230" height="70" as="geometry" />
-          </mxCell>
-        </UserObject>
-        <mxCell id="XEXGEvhh6CeXuhuqBWVr-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.11;exitY=1.023;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitPerimeter=0;" edge="1" parent="1" source="XEXGEvhh6CeXuhuqBWVr-19" target="XEXGEvhh6CeXuhuqBWVr-14">
+        <mxCell id="XEXGEvhh6CeXuhuqBWVr-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.133;exitY=0.991;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitPerimeter=0;" edge="1" parent="1" source="XEXGEvhh6CeXuhuqBWVr-36" target="XEXGEvhh6CeXuhuqBWVr-31">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <UserObject label="Marco Kornrumpf&lt;br&gt;&lt;i style=&quot;color: rgb(128 , 128 , 128)&quot;&gt;Account Exec&lt;/i&gt;&lt;br&gt;&lt;a href=&quot;mailto:me@example.com&quot;&gt;marco.kornrumpf@microsoft.com&lt;/a&gt;" name="Jörg Treiner " position="CTO" location="Munich" email="joerg.treiner@syncier.com" placeholders="1" link="https://www.linkedin.com/in/joergtreiner" id="XEXGEvhh6CeXuhuqBWVr-19">
+        <mxCell id="XEXGEvhh6CeXuhuqBWVr-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.133;exitY=0.946;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitPerimeter=0;" edge="1" parent="1" source="XEXGEvhh6CeXuhuqBWVr-36" target="XEXGEvhh6CeXuhuqBWVr-37">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <UserObject label="Luis Alves Martins&lt;br&gt;&lt;i style=&quot;color: gray&quot;&gt;TPM Manager&lt;/i&gt;&lt;br&gt;&lt;a href=&quot;mailto:me@example.com&quot;&gt;Luis.Martins@microsoft.com&lt;/a&gt;" name="James Nolan" position="Cloud Architect" location="Munich" email="James Nolan" placeholders="1" link="https://www.linkedin.com/in/cloudywithachanceofdevops" id="XEXGEvhh6CeXuhuqBWVr-36">
+          <mxCell style="label;image=https://cdn3.iconfinder.com/data/icons/user-avatars-1/512/users-2-128.png;whiteSpace=wrap;html=1;rounded=0;glass=0;" vertex="1" parent="1">
+            <mxGeometry x="60" y="660" width="230" height="70" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="Christian Binder&lt;br&gt;&lt;i style=&quot;color: gray&quot;&gt;TPM&lt;/i&gt;&lt;br&gt;&lt;a href=&quot;mailto:me@example.com&quot;&gt;cbinder@microsoft.com&lt;/a&gt;" name="James Nolan" position="Cloud Architect" location="Munich" email="James Nolan" placeholders="1" link="https://www.linkedin.com/in/cloudywithachanceofdevops" id="XEXGEvhh6CeXuhuqBWVr-37">
+          <mxCell style="label;image=https://cdn3.iconfinder.com/data/icons/user-avatars-1/512/users-2-128.png;whiteSpace=wrap;html=1;rounded=0;glass=0;" vertex="1" parent="1">
+            <mxGeometry x="120" y="830" width="230" height="70" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="XEXGEvhh6CeXuhuqBWVr-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.11;exitY=1.023;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitPerimeter=0;" edge="1" parent="1" source="XEXGEvhh6CeXuhuqBWVr-39" target="XEXGEvhh6CeXuhuqBWVr-33">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <UserObject label="Marco Kornrumpf&lt;br&gt;&lt;i style=&quot;color: rgb(128 , 128 , 128)&quot;&gt;Account Exec&lt;/i&gt;&lt;br&gt;&lt;a href=&quot;mailto:me@example.com&quot;&gt;marco.kornrumpf@microsoft.com&lt;/a&gt;" name="Jörg Treiner " position="CTO" location="Munich" email="joerg.treiner@syncier.com" placeholders="1" link="https://www.linkedin.com/in/joergtreiner" id="XEXGEvhh6CeXuhuqBWVr-39">
           <mxCell style="label;image=https://cdn3.iconfinder.com/data/icons/user-avatars-1/512/users-9-2-128.png;whiteSpace=wrap;html=1;rounded=0;glass=0;treeFolding=1;treeMoving=1;" vertex="1" parent="1">
-            <mxGeometry x="659.41" y="570" width="271" height="80" as="geometry" />
+            <mxGeometry x="670" y="660" width="271" height="80" as="geometry" />
           </mxCell>
         </UserObject>
       </root>
